@@ -20,8 +20,8 @@ The project aims to develop a scalable platform for creating and managing custom
 
 ## Project Report
 
-[Module 1](./reports/reportM1.md)
-[Module 2](./reports/reportM2.md)
+- [Module 1](./reports/reportM1.md)
+- [Module 2](./reports/reportM2.md)
 
 
 ## 📋 Licença/License
